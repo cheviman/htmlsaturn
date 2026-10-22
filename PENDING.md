@@ -34,7 +34,7 @@ is**.
 audio, the canvas, or the gameplay path. The browser side is measured with the `[frames]` log (see
 §5).
 
-**Server:** `node serve.mjs --sab` → http://localhost:8099/index.html. The `--sab` is not optional
+**Server:** `node serve.mjs --sab` → http://localhost:8080/index.html. The `--sab` is not optional
 for measuring: without it there is no `SharedArrayBuffer`, and without that neither the VDP1 worker
 nor the 4 VDP2 threads start, which means a different path is being tested.
 

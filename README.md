@@ -128,7 +128,7 @@ BIOS and your own game discs**: neither is included, and neither can be.
 node serve.mjs --sab
 ```
 
-Then open http://localhost:8099/index.html, load the BIOS once (it stays in the browser) and load a
+Then open http://localhost:8080/index.html, load the BIOS once (it stays in the browser) and load a
 disc (a CUE with its BIN tracks, an ISO, or a loose BIN or IMG).
 
 `--sab` makes the server send the COOP/COEP headers. With them the page is cross-origin isolated,
