@@ -10,7 +10,7 @@ understood.
 <td><img src="screenshots/daytona-usa-attract.png" alt="Daytona USA, attract mode" width="400"></td>
 </tr>
 <tr>
-<td><img src="screenshots/daytona-rolling-start.png" alt="Daytona, rolling start" width="400"></td>
+<td><img src="screenshots/daytona-usa-rolling-start.png" alt="Daytona USA, rolling start" width="400"></td>
 <td><img src="screenshots/virtua-cop-attract.png" alt="Virtua Cop, attract mode" width="400"></td>
 </tr>
 <tr>
