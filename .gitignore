@@ -1,0 +1,39 @@
+# Saturn BIOS — NOT distributed (copyright Sega). Everyone supplies their own.
+bios/
+
+# Disc images / community games — NOT distributed (copyright).
+*.bin
+*.iso
+*.cue
+*.chd
+*.img
+*.mds
+*.mdf
+*.ccd
+*.sub
+# Compressed games (the 7z of one CD weighs hundreds of MB)
+*.7z
+*.zip
+*.rar
+roms/
+discs/
+test-roms/
+
+# Local reference material, not part of the repository.
+docs/
+
+# OS / editor clutter
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+*.log
+
+# Claude Code session state (agent worktrees, local settings)
+.claude/
+
+# Diagnostic artifacts (images and profiles): they are regenerated, they don't go in the repo
+diag/*.png
+diag/antes/
+diag/_prof-*.txt
+isolate-*.log
